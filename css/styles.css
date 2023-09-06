@@ -1,0 +1,123 @@
+.body {
+  background-color: #000;
+}
+#title {
+  background-color: #000;
+  color: #fff;
+}
+h1 {
+  font-family: "Oswald";
+  font-size: 3rem;
+  line-height: 1.5;
+}
+h2 {
+  font-size: 2.5rem;
+  line-height: 1.5;
+}
+h3 {
+  font-family: "oswald";
+  font-weight: bold;
+}
+body {
+  font-family: "roboto";
+  }
+.btn_download {
+  margin-left: 20%;
+}
+.btn_txt {
+  color: #fff;
+}
+.body_header {
+  background-color: black;
+}
+.navbar-nav {
+  display: inline;
+  margin-left: 80%;
+}
+button a {
+  color: #fff;
+  text-decoration: none;
+}
+
+
+/* Features */
+.w3_image, .w3_image_2 {
+  padding-top: 20px;
+}
+.w3_image_3 {
+  padding-top: 50px;
+}
+.txt_feature {
+  color: rgb(167, 167, 167);
+  font-size: .8rem;
+
+}
+.bi {
+  margin-left: 10%;
+}
+
+/* feedbacks */
+
+#feedbacks {
+  margin-top: 50px;
+  background-color: #f1faee;
+}
+.feed_txt {
+  display: flex;
+  justify-content: center;
+  font-family: serif;
+  font-size: 2rem;
+ }
+ .img_asus1 {
+  width: 30%;
+  padding-left: 10%;
+  float: left;
+ }
+.asus_txt {
+  padding-top: 150px;
+}
+.img_asus1 {
+  margin-left: 20%;
+}
+
+
+/* partners */
+
+#partners {
+  background-color: #f1faee;
+}
+.partners_img {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+}
+.tech {
+  grid-column: 2;
+}
+.tech_img {
+  width: 80%;
+}
+.tnw {
+  grid-column: 3;
+}
+.tnw_img {
+  width: 80%;
+}
+.bizi {
+  grid-column: 4;
+}
+.bizi_img {
+  width: 80%;
+}
+
+/* Pricing */
+
+.footer_txt {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 30px;
+  background-color: #f1faee;
+  font-size: .7rem;
+  height: 50px;
+  color: #bbbdba;
+}
